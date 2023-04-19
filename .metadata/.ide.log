@@ -1,0 +1,221 @@
+2023-04-19 12:31:23,046 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 689331264 Bytes (972029952)
+2023-04-19 12:31:26,340 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 815449616 Bytes (972029952)
+2023-04-19 12:31:28,358 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 333634880 Bytes (972029952)
+2023-04-19 12:31:28,879 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-04-19 12:31:28,879 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-04-19 12:31:28,880 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-04-19 12:31:28,880 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-04-19 12:31:28,880 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-04-19 12:31:28,882 [INFO] CodeGenerator:793 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.8.0.202302231600//db/
+2023-04-19 12:31:29,207 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/license.tmp_save
+2023-04-19 12:31:29,616 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/license.tmp
+2023-04-19 12:31:29,754 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/gpio.tmp_save
+2023-04-19 12:31:29,990 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/gpio.tmp
+2023-04-19 12:31:30,173 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_it.c_save
+2023-04-19 12:31:30,780 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_it.c
+2023-04-19 12:31:30,784 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_it.h_save
+2023-04-19 12:31:30,896 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_it.h
+2023-04-19 12:31:30,905 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_hal_msp.c_save
+2023-04-19 12:31:31,128 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_hal_msp.c
+2023-04-19 12:31:31,134 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/system.tmp_save
+2023-04-19 12:31:31,248 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/system.tmp
+2023-04-19 12:31:31,258 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_hal_conf.h_save
+2023-04-19 12:31:31,370 [INFO] CodeEngine:335 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_hal_conf.h
+2023-04-19 12:31:31,450 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/main.h_save
+2023-04-19 12:31:31,562 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/main.h
+2023-04-19 12:31:31,569 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/main.c_save
+2023-04-19 12:31:31,720 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/main.c
+2023-04-19 12:31:33,089 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 417mS.
+2023-04-19 12:31:33,101 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-04-19 12:31:33,974 [INFO] ConfigFileManager:1483 - The Die is : DIE431
+2023-04-19 12:31:36,250 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 3150mS.
+2023-04-19 12:31:36,251 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-04-19 12:31:36,254 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-04-19 12:32:43,693 [INFO] Gpio:273 - dependency for GPIO [RCC, SYS, USART2]
+2023-04-19 12:33:29,135 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-04-19 12:33:33,344 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-04-19 12:33:41,069 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-04-19 12:33:44,966 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-04-19 12:33:55,003 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 289947656 Bytes (972029952)
+2023-04-19 12:33:56,122 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 308685416 Bytes (972029952)
+2023-04-19 12:33:56,367 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 328744968 Bytes (972029952)
+2023-04-19 12:33:56,708 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-04-19 12:33:56,708 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-04-19 12:33:56,708 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-04-19 12:33:56,709 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-04-19 12:33:56,709 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-04-19 12:33:56,709 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-04-19 12:33:56,711 [INFO] CodeGenerator:793 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.8.0.202302231600//db/
+2023-04-19 12:33:56,961 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/license.tmp_save
+2023-04-19 12:33:57,100 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/license.tmp
+2023-04-19 12:33:57,131 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/gpio.tmp_save
+2023-04-19 12:33:57,213 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/gpio.tmp
+2023-04-19 12:33:57,465 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_it.c_save
+2023-04-19 12:33:57,541 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_it.c
+2023-04-19 12:33:57,544 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_it.h_save
+2023-04-19 12:33:57,609 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_it.h
+2023-04-19 12:33:57,617 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_hal_msp.c_save
+2023-04-19 12:33:57,717 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_hal_msp.c
+2023-04-19 12:33:57,724 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/system.tmp_save
+2023-04-19 12:33:57,809 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/system.tmp
+2023-04-19 12:33:57,817 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_hal_conf.h_save
+2023-04-19 12:33:57,909 [INFO] CodeEngine:335 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_hal_conf.h
+2023-04-19 12:33:57,958 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-04-19 12:33:57,959 [WARN] CodeGenerator:3754 - IP not found : null
+2023-04-19 12:33:57,965 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/main.h_save
+2023-04-19 12:33:58,041 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/main.h
+2023-04-19 12:33:58,046 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/main.c_save
+2023-04-19 12:33:58,149 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/main.c
+2023-04-19 12:33:58,760 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 246mS.
+2023-04-19 12:33:58,763 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-04-19 12:33:59,575 [INFO] ConfigFileManager:1483 - The Die is : DIE431
+2023-04-19 12:34:01,507 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2744mS.
+2023-04-19 12:34:01,511 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 4mS.
+2023-04-19 12:34:01,512 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-04-19 12:37:40,666 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-04-19 12:37:42,565 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 695806088 Bytes (972029952)
+2023-04-19 12:37:44,013 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 713631880 Bytes (972029952)
+2023-04-19 12:37:46,252 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 746137736 Bytes (972029952)
+2023-04-19 12:37:46,566 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-04-19 12:37:46,566 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-04-19 12:37:46,566 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-04-19 12:37:46,566 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-04-19 12:37:46,566 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-04-19 12:37:46,567 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-04-19 12:37:46,576 [INFO] CodeGenerator:793 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.8.0.202302231600//db/
+2023-04-19 12:37:46,871 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/license.tmp_save
+2023-04-19 12:37:47,046 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/license.tmp
+2023-04-19 12:37:47,092 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/gpio.tmp_save
+2023-04-19 12:37:47,200 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/gpio.tmp
+2023-04-19 12:37:47,544 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_it.c_save
+2023-04-19 12:37:47,656 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_it.c
+2023-04-19 12:37:47,661 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_it.h_save
+2023-04-19 12:37:47,755 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_it.h
+2023-04-19 12:37:47,763 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_hal_msp.c_save
+2023-04-19 12:37:47,905 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_hal_msp.c
+2023-04-19 12:37:47,909 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/system.tmp_save
+2023-04-19 12:37:47,997 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/system.tmp
+2023-04-19 12:37:48,006 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_hal_conf.h_save
+2023-04-19 12:37:48,084 [INFO] CodeEngine:335 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_hal_conf.h
+2023-04-19 12:37:48,141 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-04-19 12:37:48,142 [WARN] CodeGenerator:3754 - IP not found : null
+2023-04-19 12:37:48,149 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/main.h_save
+2023-04-19 12:37:48,245 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/main.h
+2023-04-19 12:37:48,251 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/main.c_save
+2023-04-19 12:37:48,379 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/main.c
+2023-04-19 12:37:49,515 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 375mS.
+2023-04-19 12:37:49,518 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-04-19 12:37:49,766 [INFO] ConfigFileManager:1483 - The Die is : DIE431
+2023-04-19 12:37:51,550 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2032mS.
+2023-04-19 12:37:51,552 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-04-19 12:37:51,553 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-04-19 12:40:29,112 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-04-19 12:40:31,197 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 421048576 Bytes (972029952)
+2023-04-19 12:40:32,790 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 438874368 Bytes (972029952)
+2023-04-19 12:40:34,809 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 470331648 Bytes (972029952)
+2023-04-19 12:40:35,240 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-04-19 12:40:35,240 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-04-19 12:40:35,240 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-04-19 12:40:35,240 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-04-19 12:40:35,240 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-04-19 12:40:35,240 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-04-19 12:40:35,241 [INFO] CodeGenerator:793 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.8.0.202302231600//db/
+2023-04-19 12:40:35,525 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/license.tmp_save
+2023-04-19 12:40:35,612 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/license.tmp
+2023-04-19 12:40:35,658 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/gpio.tmp_save
+2023-04-19 12:40:35,741 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/gpio.tmp
+2023-04-19 12:40:36,079 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_it.c_save
+2023-04-19 12:40:36,186 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_it.c
+2023-04-19 12:40:36,190 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_it.h_save
+2023-04-19 12:40:36,264 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_it.h
+2023-04-19 12:40:36,273 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_hal_msp.c_save
+2023-04-19 12:40:36,371 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_hal_msp.c
+2023-04-19 12:40:36,373 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/system.tmp_save
+2023-04-19 12:40:36,439 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/system.tmp
+2023-04-19 12:40:36,445 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_hal_conf.h_save
+2023-04-19 12:40:36,510 [INFO] CodeEngine:335 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_hal_conf.h
+2023-04-19 12:40:36,547 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-04-19 12:40:36,547 [WARN] CodeGenerator:3754 - IP not found : null
+2023-04-19 12:40:36,553 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/main.h_save
+2023-04-19 12:40:36,611 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/main.h
+2023-04-19 12:40:36,615 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/main.c_save
+2023-04-19 12:40:36,721 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/main.c
+2023-04-19 12:40:37,618 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 262mS.
+2023-04-19 12:40:37,621 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-04-19 12:40:38,334 [INFO] ConfigFileManager:1483 - The Die is : DIE431
+2023-04-19 12:40:40,266 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2645mS.
+2023-04-19 12:40:40,267 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-04-19 12:40:40,269 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-04-19 12:46:43,696 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-04-19 12:49:45,692 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 644618592 Bytes (972029952)
+2023-04-19 12:49:47,066 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 662424072 Bytes (972029952)
+2023-04-19 12:49:49,842 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 727395296 Bytes (972029952)
+2023-04-19 12:49:50,046 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-04-19 12:49:50,046 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-04-19 12:49:50,046 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-04-19 12:49:50,046 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-04-19 12:49:50,047 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-04-19 12:49:50,047 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-04-19 12:49:50,048 [INFO] CodeGenerator:793 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.8.0.202302231600//db/
+2023-04-19 12:49:50,340 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/license.tmp_save
+2023-04-19 12:49:50,502 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/license.tmp
+2023-04-19 12:49:50,525 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/gpio.tmp_save
+2023-04-19 12:49:50,585 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/gpio.tmp
+2023-04-19 12:49:50,805 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_it.c_save
+2023-04-19 12:49:50,876 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_it.c
+2023-04-19 12:49:50,880 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_it.h_save
+2023-04-19 12:49:50,946 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_it.h
+2023-04-19 12:49:50,954 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_hal_msp.c_save
+2023-04-19 12:49:51,041 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_hal_msp.c
+2023-04-19 12:49:51,044 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/system.tmp_save
+2023-04-19 12:49:51,105 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/system.tmp
+2023-04-19 12:49:51,111 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_hal_conf.h_save
+2023-04-19 12:49:51,184 [INFO] CodeEngine:335 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_hal_conf.h
+2023-04-19 12:49:51,216 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-04-19 12:49:51,217 [WARN] CodeGenerator:3754 - IP not found : null
+2023-04-19 12:49:51,222 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/main.h_save
+2023-04-19 12:49:51,285 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/main.h
+2023-04-19 12:49:51,288 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/main.c_save
+2023-04-19 12:49:51,383 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/main.c
+2023-04-19 12:49:52,133 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 189mS.
+2023-04-19 12:49:52,136 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-04-19 12:49:52,506 [INFO] ConfigFileManager:1483 - The Die is : DIE431
+2023-04-19 12:49:54,397 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2262mS.
+2023-04-19 12:49:54,398 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-04-19 12:49:54,400 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-04-19 14:55:58,014 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 750912696 Bytes (1010827264)
+2023-04-19 14:55:59,273 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 768798488 Bytes (1010827264)
+2023-04-19 14:56:00,521 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 800937480 Bytes (1010827264)
+2023-04-19 14:56:00,939 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-04-19 14:56:00,940 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-04-19 14:56:00,940 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-04-19 14:56:00,940 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-04-19 14:56:00,940 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-04-19 14:56:00,940 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-04-19 14:56:00,941 [INFO] CodeGenerator:793 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.8.0.202302231600//db/
+2023-04-19 14:56:01,260 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/license.tmp_save
+2023-04-19 14:56:01,367 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/license.tmp
+2023-04-19 14:56:01,394 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/gpio.tmp_save
+2023-04-19 14:56:01,479 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/gpio.tmp
+2023-04-19 14:56:01,707 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_it.c_save
+2023-04-19 14:56:01,889 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_it.c
+2023-04-19 14:56:01,893 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_it.h_save
+2023-04-19 14:56:01,960 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_it.h
+2023-04-19 14:56:01,966 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_hal_msp.c_save
+2023-04-19 14:56:02,072 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/stm32f4xx_hal_msp.c
+2023-04-19 14:56:02,075 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/system.tmp_save
+2023-04-19 14:56:02,132 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/MXTmpFiles/system.tmp
+2023-04-19 14:56:02,137 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_hal_conf.h_save
+2023-04-19 14:56:02,202 [INFO] CodeEngine:335 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/stm32f4xx_hal_conf.h
+2023-04-19 14:56:02,235 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-04-19 14:56:02,235 [WARN] CodeGenerator:3754 - IP not found : null
+2023-04-19 14:56:02,241 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/main.h_save
+2023-04-19 14:56:02,340 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Inc/main.h
+2023-04-19 14:56:02,344 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/main.c_save
+2023-04-19 14:56:02,448 [INFO] CodeEngine:279 - Generated code: /Users/hongjun/Documents/coding/0_project/stm32/123/Core/Src/main.c
+2023-04-19 14:56:03,135 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 217mS.
+2023-04-19 14:56:03,143 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-04-19 14:56:04,105 [INFO] ConfigFileManager:1483 - The Die is : DIE431
+2023-04-19 14:56:05,661 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2518mS.
+2023-04-19 14:56:05,664 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-04-19 14:56:05,666 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
